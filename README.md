@@ -1,16 +1,24 @@
-# practice_6_june_2022
+# Jakir's Note
+Create a simple notes
 
-A new Flutter project.
+## Features
 
-## Getting Started
+* simple interface that most of the users find easy to use
+* no limits on note's length or number of notes (of course there's a limit to phone's storage)
+* creating and editing text notes
+* importing notes from txt files, saving notes as txt files
+* sharing notes with other apps (e.g. sending a note in Gmail)
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+<img src="screenshot/1.png" width="256"> <img src="screenshot/2.png" width="256"> <img src="screenshot/3.png" width="256"> 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Try out BookMyBus?
+
+Android: [Download BookMyBus.apk](https://github.com/mhnabilcoder/Bus_Ticket_Booking_App_Flutter-UI/blob/main/App/Book%20My%20Bus.apk)
+
+## Developer
+
+Hi there! I am Mahedi Hasan Nabil. I create CrossPlatform apps for solving problems and Bringing something Enovative to make things easier to bring something new to the society. Try out my new app TeliMed(an online doctor consultation solution). 
+If you have any query related to it don't hasitate to [e-mail me](mailto:mhnabilcoder@gmail.com). And also check out my other stuffs [here](https://github.com/mhnabilcoder).
