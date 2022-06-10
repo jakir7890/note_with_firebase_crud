@@ -14,11 +14,7 @@ Create a simple notes
 <img src="screenshot/1.png" width="256"> <img src="screenshot/2.png" width="256"> <img src="screenshot/3.png" width="256"> 
 
 
-## Try out BookMyBus?
-
-Android: [Download BookMyBus.apk](https://github.com/mhnabilcoder/Bus_Ticket_Booking_App_Flutter-UI/blob/main/App/Book%20My%20Bus.apk)
-
 ## Developer
 
 Hello,I'm an intermediate level Flutter Developer from Bangladesh.I'm interested to work on various sectors but love to work in mobile application development.Photography & traveling are my favorite things to do. 
-If you have any query related to it don't hasitate to [e-mail me](mailto:syedjakir7890@gmail.com). And also check out my other stuffs [here](https://github.com/syedjakir7890).
+If you have any query related to it don't hasitate to [e-mail me](mailto:syedjakir7890@gmail.com). And also check out my other stuffs [here](https://github.com/jakir7890).
