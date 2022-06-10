@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "314371409216",
+    "project_id": "flutte-notes",
+    "storage_bucket": "flutte-notes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314371409216:android:f5eb9ed75e15ffe375a6a5",
+        "android_client_info": {
+          "package_name": "com.example.practice_6_june_2022"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314371409216-p4k8co62fagi41ipd3hboc8u4v9j36fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ6_uKOhcaRee0ZSf3DR01GNa_3EeUWpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314371409216-p4k8co62fagi41ipd3hboc8u4v9j36fj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
