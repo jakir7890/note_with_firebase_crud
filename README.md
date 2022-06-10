@@ -20,5 +20,5 @@ Android: [Download BookMyBus.apk](https://github.com/mhnabilcoder/Bus_Ticket_Boo
 
 ## Developer
 
-Hi there! I am Mahedi Hasan Nabil. I create CrossPlatform apps for solving problems and Bringing something Enovative to make things easier to bring something new to the society. Try out my new app TeliMed(an online doctor consultation solution). 
-If you have any query related to it don't hasitate to [e-mail me](mailto:mhnabilcoder@gmail.com). And also check out my other stuffs [here](https://github.com/mhnabilcoder).
+Hello,I'm an intermediate level Flutter Developer from Bangladesh.I'm interested to work on various sectors but love to work in mobile application development.Photography & traveling are my favorite things to do. 
+If you have any query related to it don't hasitate to [e-mail me](mailto:syedjakir7890@gmail.com). And also check out my other stuffs [here](https://github.com/syedjakir7890).
